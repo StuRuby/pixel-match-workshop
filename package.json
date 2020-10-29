@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/StuRuby/pixel-match-workshop/issues"
   },
-  "homepage": "https://github.com/StuRuby/pixel-match-workshop#readme"
+  "homepage": "https://github.com/StuRuby/pixel-match-workshop#readme",
+  "dependencies": {
+    "pixelmatch": "^5.2.1",
+    "pngjs": "^6.0.0"
+  }
 }
